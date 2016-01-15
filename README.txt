@@ -1,0 +1,1 @@
+Project 4 for CSCI 312 at William & Mary. Implements a type checker for the Gee language.
